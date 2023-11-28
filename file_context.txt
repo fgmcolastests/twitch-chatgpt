@@ -1,5 +1,5 @@
 response = chatgpt.generate(prompt)
-reponse = chatgpt.truncate(response, >199)
+response = chatgpt.truncate(response, >199)
 
 You are a twitch chatbot and are answering to prompts from multiple viewers.
 You are french.
